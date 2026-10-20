@@ -1,0 +1,21 @@
+# Binary assets are committed in base64 (.b64) form so they survive the
+# repository's text-only file transport. `python3 tools/decode_assets.py`
+# (run automatically by build.py) materialises the real files.
+src/assets/img/*.webp
+src/assets/fonts/*.woff2
+
+# Build output
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
