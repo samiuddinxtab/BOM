@@ -1,0 +1,93 @@
+{
+ "school-backpack": {
+  "src": "assets/img/school-backpack.webp",
+  "w": 1500,
+  "h": 1120,
+  "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAADwBACdASocABUAPxFysFAsJqSisBgMAYAiCWQAxNgKfVniTW6cLKWaKlgxlwQDSAAAqVLp72Eq5dOPmv1OSTCWR0xttMb0c+7puBXe52+jmW7TEV/Tf2LxfPuOtcpaCs18hyRILl866KlcVymW2gkOiPTh+qofOS4HN7sVCemwHtbiC/qAHIDaSdjYrOX55C+cKMTAAAA=",
+  "bytes": 138158
+ },
+ "college-backpack": {
+  "src": "assets/img/college-backpack.webp",
+  "w": 1500,
+  "h": 1120,
+  "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADQBACdASocABUAPxF8s1SsJ6QjKAqpgCIJQBZwATfEkBlSG4YyVur27zW21IZXIADZxL3QbiPAZBvRvNM3hoGSlav2U14M2IOKNAzTmbKpA1NvbNU7ezX2VPklYGTFhSvHmQTnvM2XplS5IhnrDOqSY8LTO9Bv1L8srgEgAAA=",
+  "bytes": 155924
+ },
+ "laptop-backpack": {
+  "src": "assets/img/laptop-backpack.webp",
+  "w": 1500,
+  "h": 1120,
+  "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACwBACdASocABUAPxFytFOsJiSisBgIAYAiCWUAs4AxWHiILeXyxNNh721RxVIAAKmhakq9UCigxnM+2YDVlwpVRsUQcQgcIZVvmwzXnSOl8rVKt/laYiie4DfBG4mQs52dNDjzTZaj9jUXBN2fAAAA",
+  "bytes": 120852
+ },
+ "file-bag": {
+  "src": "assets/img/file-bag.webp",
+  "w": 1500,
+  "h": 1120,
+  "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwBACdASocABUAPwVwqlArpqOisAwBcCCJZwDIXBT2whg4gKviFLYW+bRAAAD7TUjaWXBfpCHoaXjx2tupUEDfTOuOzzRRQTNjnl/AKFCI4nJVyENSOSvh/nqcDqK5FhMnUAe5kaElZrqoNyJW7i7Elph9+FsAAAA=",
+  "bytes": 143686
+ },
+ "duffle-bag": {
+  "src": "assets/img/duffle-bag.webp",
+  "w": 1500,
+  "h": 1120,
+  "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwBACdASocABUAPxF8tFQsJ6SjKAqpgCIJZQC7ABBWZcKxTwbzI+uWNm3EaTPQRgAAyqmhAgRnx3V1xMAq00RPHo9ZTBR1DuA+uW9lUJeO1brN7bCqvg6DglimmCDGzYBUlLuS09cEthNfxhjlNsLSFV2fXLRGMf9tqdQAAAA=",
+  "bytes": 118444
+ },
+ "trolley-bag": {
+  "src": "assets/img/trolley-bag.webp",
+  "w": 1500,
+  "h": 1120,
+  "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAABQBQCdASocABUAPwlsrlArpiQit/VYAXAhCWIAqPRCLnQoqUeWhvhrcupXBvmABOO3lgAA8dM3qs+cnBEmcE6TQMxOy+6ehFAyo8k4mfg2Zr49cbUfM3+GMlM89b6Csf3r7h+L8JDKkATF0AwWYAAA",
+  "bytes": 82360
+ },
+ "travel-backpack": {
+  "src": "assets/img/travel-backpack.webp",
+  "w": 1500,
+  "h": 1120,
+  "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADwBACdASocABUAPxFurVGsJiQisBgMAYAiCWUAuwAOF5Vu3ShqFzMlUmpv7zQJ4AAAzbhUnlxU/1BmaL/OsVHUo71E3e93EnOYeY0TBC2be67J2+B8+20JSuO70F2PEtKsufTwWY3+Epfezud/haLWaOizgAAA",
+  "bytes": 64858
+ },
+ "corporate-totes": {
+  "src": "assets/img/corporate-totes.webp",
+  "w": 1500,
+  "h": 1120,
+  "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBQCdASocABUAPxF2tFIsJyUisBgIAYAiCUAQSSGv4mT2Oq9irDg8BwKGqpYQEr0AAP7DjbBYql/gap0wHJpO8uITnLGe3v6x3c7MSVJjrZctLs8azD73dhVg/ROvZ+WbaRvycqkqfwuSm63rTWyHxqD/9plNoiuITCRmkreIu5bWJXadZG2MMFYAAA==",
+  "bytes": 67084
+ },
+ "material-macro": {
+  "src": "assets/img/material-macro.webp",
+  "w": 1500,
+  "h": 1120,
+  "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADwBACdASocABUAPwVwrFArpqQisAwBcCCJYwDKtCHw8czQjN+Epy9WXl+nRPdUhQAA/vDRmvea/5lwSrxtYvZfNYmuMRp11o1OLQDPhyOVV3MubSWA+Vex2WIftS/HgdYkOwPMPzLzarkrOj8JzY5hA8aOl/9zZAuHDVAF8gJ0BzahrpFzwpawwAA=",
+  "bytes": 285002
+ },
+ "hardware-macro": {
+  "src": "assets/img/hardware-macro.webp",
+  "w": 1100,
+  "h": 1100,
+  "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAwBQCdASocABwAPxF+tVWsJ6SjKAgBgCIJaQAAI7mvDJyWIWtt1Scrske+5z3aYfE5gAD+6Ol59gx/rE4CIDSm8NQlQCd5WUKNM3HCkQC6LfeVNyjMmUoS8I3MTwMaJH/MYXk+VjRs8bLPRjbMGYlXgZLA7UFZIC7NF2rVyf52lU77MbjM/+GWLz58v8LChDE9jp/++7vga7/V4OIBaA/zbsfsHxw1wAAAAA==",
+  "bytes": 202474
+ },
+ "factory-floor": {
+  "src": "assets/img/factory-floor.webp",
+  "w": 2000,
+  "h": 1116,
+  "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADwAwCdASocABAAPxFysFAsJqSisAgBgCIJQBOgAtqryMqn//TXVd8AAP4iR68cSu3Y5FWKZKOwIjm3Hf1+nthzhfwI0s8qPOn1Kb2l0rxkWVEYZAwbFTElklBiFgdHdy3SDK7OMiMXJWxvXLgI/2PlsUy8wSyDMgjYQSsOvt4x71mqIMu2qxjV24br6L+c6QEBgk90mZOuYa9rAxn9G35Va4AAAA==",
+  "bytes": 349698
+ },
+ "design-studio": {
+  "src": "assets/img/design-studio.webp",
+  "w": 2000,
+  "h": 1116,
+  "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABQBACdASocABAAPxFysFAsJqSisAgBgCIJQBOmUAXoAvbcVx8KVBdT/+qAAP7SVDs1bQGI7yaNn6esr6QC3JHRyZg/22bejmWEg5Pu1GtrEjHjJ6owO9Kk/87NN5SeTsIoeKjNfPh2m9g61pQ1HjUkRB5wL2OPlbscPMVdxJD6yO4wFSiiamlvee0fk2vLH5h/VY7nAvsrcqPwA6NBPYk1WPJwhF1ugAA=",
+  "bytes": 170948
+ },
+ "hero-bag": {
+  "src": "assets/img/hero-bag.webp",
+  "w": 1400,
+  "h": 1875,
+  "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBQCdASoVABwAPv1mq1ArJaQit/qoAWAfiWMAyRAhuzLIs49Lsqhb0dRJZF0LfpvwAP7r63PKo3vJvt0Vlduozm4cPuka0fW69HTCRhkEC0K4nK3nsC1nAH5IZnZOtM+zXsWotoyWTTc88pkAAA==",
+  "bytes": 351070
+ }
+}
